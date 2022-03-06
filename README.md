@@ -7,3 +7,6 @@ also to adjust the different properties of object like position, rotation.... us
 It also has a gltfloader to load external models in your
 
 This is the perfect boiler plate to start with threejs
+
+you can check the output on clicking the link below
+https://lionsleo.github.io/threejs-boiler-plate/
