@@ -8,5 +8,5 @@ It also has a gltfloader to load external models in your
 
 This is the perfect boiler plate to start with threejs
 
-you can check the output on clicking the link below
+you can check the output by visiting this link
 https://lionsleo.github.io/threejs-boiler-plate/
